@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- HEADER: Menggunakan Custom Banner & Profile Photo -->
+<img src="assets/banner.svg" width="100%" alt="Banner Naufal Adriananta"/>
+
 <br/>
 
 <a href="https://github.com/naufalandriananta-cpu">
