@@ -46,20 +46,18 @@ I'm **Naufal**, a software engineer who works across the full stack but genuinel
 
 Most of my time goes into three things:
 
-- 🧩 **Building** — Web applications with an emphasis on structure, maintainability, and interfaces that don't need explaining.
-- 🎨 **Designing** — Crafting wireframes, exploring layouts, and building interface systems in Figma before a single line of code is written.
-- 📈 **Planning** — Mapping projects with Gantt charts and task-dependency diagrams before development starts, not after things go sideways.
+- **Building** — Web applications with an emphasis on structure, maintainability, and interfaces that don't need explaining.
+- **Designing** — Crafting wireframes, exploring layouts, and building interface systems in Figma before a single line of code is written.
+- **Planning** — Mapping projects with Gantt charts and task-dependency diagrams before development starts, not after things go sideways.
 
-🚀 Currently deepening my **backend skills** to own projects end-to-end — from database schema to the final pixel on screen.
-
-🌱 Always iterating, always learning.
+Currently deepening my **backend skills** to own projects end-to-end — from database schema to the final pixel on screen. Always iterating, always learning.
 
 </td>
 <td width="40%" valign="top" align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=800&color=7EE787&center=true&vCenter=true&width=280&lines=const+dev+%3D+%7B;+++name%3A+%27Naufal%27%2C;+++role%3A+%27Full-Stack%27%2C;+++focus%3A+%27UI%2FUX%27%2C;+++status%3A+%27Learning%27%3B;%7D%3B" alt="code snippet"/>
 <br/>
-<img src="assets/profile-frame.svg" width="180" alt="Profile Frame Decoration"/>
+<img src="assets/coding-animation.gif" width="220" alt="Coding Animation"/>
 
 </td>
 </tr>
@@ -77,14 +75,14 @@ Most of my time goes into three things:
 
 | | |
 |:---|:---|
-| 🧑‍💻 **Name** | Naufal Adriananta Halim |
-| 🎯 **Role** | Web Developer & UI/UX Designer |
-| 📍 **Location** | Indonesia |
-| 📧 **Email** | [naufalandriananta@gmail.com](mailto:naufalandriananta@gmail.com) |
-| 📱 **WhatsApp** | [+62 822-6401-6836](https://wa.me/6282264016836) |
-| 📸 **Instagram** | [@nfltaa\_](https://instagram.com/nfltaa_) |
-| 💼 **LinkedIn** | [naufal\_\_](https://linkedin.com/in/naufal__) |
-| 🤝 **Collaboration** | Always open to web development & UI/UX projects |
+| **Name** | Naufal Adriananta Halim |
+| **Role** | Web Developer & UI/UX Designer |
+| **Location** | Indonesia |
+| <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="20"/> | [naufalandriananta@gmail.com](mailto:naufalandriananta@gmail.com) |
+| <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="20"/> | [+62 822-6401-6836](https://wa.me/6282264016836) |
+| <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="20"/> | [@nfltaa\_](https://instagram.com/nfltaa_) |
+| <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/> | [naufal\_\_](https://linkedin.com/in/naufal__) |
+| **Collaboration** | Always open to web development & UI/UX projects |
 
 </div>
 
@@ -192,7 +190,7 @@ Most of my time goes into three things:
 
 <div align="center">
 
-💬 **Punya ide project atau ingin kolaborasi?** Jangan ragu untuk menghubungi saya lewat email atau WhatsApp di atas — selalu terbuka untuk diskusi seputar web development maupun UI/UX design.
+**Punya ide project atau ingin kolaborasi?** Jangan ragu untuk menghubungi saya lewat email atau WhatsApp di atas — selalu terbuka untuk diskusi seputar web development maupun UI/UX design.
 
 <br/>
 
