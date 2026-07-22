@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <defs>
+    <clipPath id="squircle">
+      <path d="M150,0 C270,0 300,30 300,150 C300,270 270,300 150,300 C30,300 0,270 0,150 C0,30 30,0 150,0 Z" />
+    </clipPath>
+  </defs>
+  <image href="profile-photo.jpg" width="300" height="300" preserveAspectRatio="xMidYMid slice" clip-path="url(#squircle)" />
+  <path d="M150,2 C268,2 298,32 298,150 C298,268 268,298 150,298 C32,298 2,268 2,150 C2,32 32,2 150,2 Z" fill="none" stroke="#D2A859" stroke-width="4" opacity="0.8" />
+</svg>
