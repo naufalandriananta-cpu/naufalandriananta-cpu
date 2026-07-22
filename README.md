@@ -81,7 +81,7 @@ Currently deepening my **backend skills** to own projects end-to-end — from da
 | <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="20"/> | [naufalandriananta@gmail.com](mailto:naufalandriananta@gmail.com) |
 | <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="20"/> | [+62 822-6401-6836](https://wa.me/6282264016836) |
 | <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="20"/> | [@nfltaa\_](https://instagram.com/nfltaa_) |
-| <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/> | [naufal\_\_](https://linkedin.com/in/naufal__) |
+| <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/> | [naufal\_\_](https://linkedin.com/in/Naufal Andriananta) |
 | **Collaboration** | Always open to web development & UI/UX projects |
 
 </div>
