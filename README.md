@@ -1,122 +1,309 @@
 <div align="center">
 
-<!-- Banner atas -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Guss%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=260&section=header&text=NAUFAL%20ADRIANANTA%20HALIM&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18&descColor=7EE787" width="100%"/>
 
-<h3>Web Developer 💻 | UI/UX Designer 🎨 | IT Enthusiast 🚀</h3>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=D4A373&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;Web+Development+%26+UI%2FUX;Turning+Coffee+into+Code+%E2%98%95;Casual+Vintage+Aesthetics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+clean%2C+scalable+web+products;Designing+interfaces+people+enjoy+using;Turning+ideas+into+shipped+software;Always+iterating%2C+always+learning" alt="Typing SVG"/>
 
-<!-- Profile visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=guss&label=Profile%20Views&color=d4a373&style=flat" alt="profile views" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=naufalandriananta-cpu&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/naufalandriananta-cpu?label=FOLLOWERS&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="followers"/>
+<img src="https://img.shields.io/github/stars/naufalandriananta-cpu?label=STARS&style=for-the-badge&color=F2CC60&labelColor=0D1117" alt="stars"/>
 
 </div>
 
-<!-- Sosial Media / Connect with Me -->
-<p align="center">
-  <a href="https://instagram.com/username_ig_kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/username_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/guss"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — ABOUT ME
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-01-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm **Naufal**, a software engineer who works across the full stack but genuinely loves the intersection of **frontend engineering** and **UI/UX design** — the point where a clean interface meets code that doesn't fall apart in production.
+
+Most of my time goes into three things:
+
+- 🧩 **Building** — web applications with an emphasis on structure, maintainability, and a UI that doesn't need explaining
+- 🎨 **Designing** — wireframes and interface systems in Figma before a single line of code is written
+- 📈 **Planning** — I map projects with Gantt charts and task-dependency diagrams before development starts, not after things go sideways
+
+I care about software that is *simple to use* and *reasonable to maintain*. If a project needs both a working interface and a working plan behind it, that's the kind of work I gravitate toward.
+
+Currently deepening my backend skills so I can own a project end-to-end — from database schema to the pixel on screen — instead of handing off half the stack.
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=800&color=7EE787&center=true&vCenter=true&width=280&lines=const+dev+%3D+%7B;+++role%3A+%27Full-Stack%27%2C;+++focus%3A+%27UI%2FUX%27%2C;+++status%3A+%27Learning%27;%7D%3B" alt="code snippet"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — QUICK INFO
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-02-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Quick Info
+
+<div align="center">
+
+| | |
+|---|---|
+| 🧑‍💻 **Name** | Naufal Adriananta Halim |
+| 🎯 **Role** | Web Developer & UI/UX Designer |
+| 📍 **Location** | Indonesia |
+| 📧 **Email** | naufalandriananta@gmail.com |
+| 📱 **WhatsApp** | +62 822-6401-6836 |
+| 📸 **Instagram** | [@nfltaa_](https://instagram.com/nfltaa_) |
+| 💼 **LinkedIn** | [naufal__](https://linkedin.com/in/naufal__) |
+| 📚 **Currently Learning** | Backend Development & React |
+| 🤝 **Open to Collaboration** | Yes — web & UI/UX projects |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — TECH STACK
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-03-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
 </p>
+</details>
 
----
+<details>
+<summary><b>Frontend</b></summary>
+<br/>
+<p align="left">
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+</p>
+</details>
 
-### 👨‍💻 About Me
+<details>
+<summary><b>Backend</b></summary>
+<br/>
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=7EE787" />
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff" />
+</p>
+</details>
 
-```yaml
-name: "Guss"
-role: "Web Developer & UI/UX Designer"
-education: "IT Student"
-current_focus:
-  - Web Programming (HTML, CSS, JavaScript)
-  - UI/UX Design with Figma
-  - Project planning (Gantt Chart & Task Network Diagram)
-fun_fact: "I design coffee shop layouts as much as I design interfaces ☕"
-currently_learning: "React.js & Backend Development"
+<details>
+<summary><b>Database</b></summary>
+<br/>
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
+</details>
+
+<details>
+<summary><b>Design</b></summary>
+<br/>
+<p align="left">
+<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+</p>
+</details>
+
+<details>
+<summary><b>Tools · Version Control · OS</b></summary>
+<br/>
+<p align="left">
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=58A6FF" />
+</p>
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — GITHUB DASHBOARD
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-04-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; GitHub Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=c9d1d9&count_private=true" width="48.5%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=F2CC60&currStreakLabel=58A6FF" width="48.5%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="48.5%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" width="48.5%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=7EE787&hide_border=true&area=true" width="98%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — FEATURED PROJECTS
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-05-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/repository-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repository-1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/repository-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repository-2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/repository-3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repository-3&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/repository-4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repository-4&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
+</a>
+
+</div>
+
+> Replace `repository-1` … `repository-4` with your actual public repo names (e.g. your best UI/UX case study, a web app, or an open-source contribution).
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — DEVELOPMENT JOURNEY
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-06-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Development Journey
+
+```
+2024 ─── Started learning programming fundamentals
+           │
+2025 ─── Web development — HTML, CSS, JavaScript, first real projects
+           │
+2026 ─── Deepening UI/UX design workflow + open source contributions
+           │
+Next  ─── Full-stack engineering — owning projects end to end
 ```
 
-- 🎓 IT student focusing on **Web Programming** and **UI/UX Design**
-- 💡 Always plan projects properly with Gantt Charts and Task Network Diagrams before development
-- 🎨 My design style blends **casual & vintage** aesthetics — recent work includes the *Gusada* e-commerce UI concept
-- 🚀 Actively collaborate with peers on academic projects using Git & GitHub for version control
-- 📌 Currently exploring backend development to become a more complete full-stack developer
-- ⚡ Fun fact: beyond digital layouts, I also enjoy planning spatial/interior concepts like small coffeeshop flows!
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — CURRENT FOCUS
+     ═══════════════════════════════════════════════════════════ -->
 
-### 🛠️ Tech Stack & Tools
+## <img src="https://img.shields.io/badge/-07-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Current Focus
 
-<p align="center">
-<b>Languages</b><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+- [x] Building responsive web applications
+- [x] Designing interfaces in Figma before development
+- [ ] Learning React in depth
+- [ ] Learning backend development (Node.js / Express)
+- [ ] Learning relational & non-relational databases
+- [ ] Contributing to open source
+- [ ] Refining UI/UX design systems
 
-<p align="center">
-<b>Design & Prototyping</b><br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
+<br/>
 
-<p align="center">
-<b>Tools & Workflow</b><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — CODING ACTIVITY
+     ═══════════════════════════════════════════════════════════ -->
 
----
+## <img src="https://img.shields.io/badge/-08-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Coding Activity
 
-### 📊 GitHub Analytics
+<details>
+<summary><b>⏱️ WakaTime Weekly Stats</b></summary>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guss&show_icons=true&theme=gruvbox&locale=id&hide_border=true&title_color=d4a373&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guss&theme=gruvbox&hide_border=true&title_color=d4a373" alt="GitHub Streak" width="48%" />
-</p>
+```text
+Waiting on wakatime data...
+```
+> Connect [WakaTime](https://wakatime.com) and add the `wakatime-badge` action to auto-generate this section.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guss&layout=compact&theme=gruvbox&hide_border=true&title_color=d4a373" alt="Top Langs" width="48%" />
-</p>
+</details>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guss&theme=gruvbox&no-frame=true&row=1&column=6" alt="trophy" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/guss/repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guss&repo=repo-1&theme=gruvbox&hide_border=true" />
-  </a>
-  <a href="https://github.com/guss/repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guss&repo=repo-2&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-
-> Ganti `repo-1` dan `repo-2` di atas dengan nama repository proyek unggulanmu (misalnya proyek UTS atau UI/UX case study).
-
----
-
-### 🐍 Activity Graph (Snake Animation)
+<details>
+<summary><b>💬 Dev Quote of the Day</b></summary>
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guss/guss/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guss/guss/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guss/guss/output/github-contribution-grid-snake.svg">
-  </picture>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
 </div>
 
----
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — CONNECT WITH ME
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-09-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Connect With Me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  <sub>Thanks for visiting my profile! Feel free to reach out for collaboration 🚀</sub>
+
+<a href="https://instagram.com/nfltaa_">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+<a href="https://linkedin.com/in/naufal__">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+</a>
+<a href="mailto:naufalandriananta@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<a href="https://wa.me/6282264016836">
+<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — CONTRIBUTION SNAKE
+     ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     FOOTER
+     ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=140&section=footer" width="100%"/>
+
+<sub>Thanks for stopping by — always open to a good collaboration. 🚀</sub>
 </div>
