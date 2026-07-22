@@ -149,15 +149,15 @@ Currently deepening my backend skills so I can own a project end-to-end — from
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=c9d1d9&count_private=true" width="48.5%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=F2CC60&currStreakLabel=58A6FF" width="48.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naufalandriananta-cpu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=c9d1d9&count_private=true" width="48.5%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalandriananta-cpu&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=F2CC60&currStreakLabel=58A6FF" width="48.5%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="48.5%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" width="48.5%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalandriananta-cpu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="48.5%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=naufalandriananta-cpu&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" width="48.5%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=7EE787&hide_border=true&area=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naufalandriananta-cpu&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=7EE787&hide_border=true&area=true" width="98%"/>
 
 </div>
 
@@ -171,23 +171,21 @@ Currently deepening my backend skills so I can own a project end-to-end — from
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/repository-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repository-1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
+<a href="https://github.com/naufalandriananta-cpu/DPW">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=naufalandriananta-cpu&repo=DPW&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/repository-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repository-2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
+<a href="https://github.com/naufalandriananta-cpu/uts-dpw-253307058">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=naufalandriananta-cpu&repo=uts-dpw-253307058&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/repository-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repository-3&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
+<a href="https://github.com/naufalandriananta-cpu/KIRIMO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=naufalandriananta-cpu&repo=KIRIMO&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/repository-4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repository-4&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
+<a href="https://github.com/naufalandriananta-cpu/Gusada">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=naufalandriananta-cpu&repo=Gusada&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%"/>
 </a>
 
 </div>
-
-> Replace `repository-1` … `repository-4` with your actual public repo names (e.g. your best UI/UX case study, a web app, or an open-source contribution).
 
 <br/>
 
@@ -196,114 +194,3 @@ Currently deepening my backend skills so I can own a project end-to-end — from
      ═══════════════════════════════════════════════════════════ -->
 
 ## <img src="https://img.shields.io/badge/-06-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Development Journey
-
-```
-2024 ─── Started learning programming fundamentals
-           │
-2025 ─── Web development — HTML, CSS, JavaScript, first real projects
-           │
-2026 ─── Deepening UI/UX design workflow + open source contributions
-           │
-Next  ─── Full-stack engineering — owning projects end to end
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     SECTION — CURRENT FOCUS
-     ═══════════════════════════════════════════════════════════ -->
-
-## <img src="https://img.shields.io/badge/-07-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Current Focus
-
-- [x] Building responsive web applications
-- [x] Designing interfaces in Figma before development
-- [ ] Learning React in depth
-- [ ] Learning backend development (Node.js / Express)
-- [ ] Learning relational & non-relational databases
-- [ ] Contributing to open source
-- [ ] Refining UI/UX design systems
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     SECTION — CODING ACTIVITY
-     ═══════════════════════════════════════════════════════════ -->
-
-## <img src="https://img.shields.io/badge/-08-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Coding Activity
-
-<details>
-<summary><b>⏱️ WakaTime Weekly Stats</b></summary>
-<br/>
-
-```text
-Waiting on wakatime data...
-```
-> Connect [WakaTime](https://wakatime.com) and add the `wakatime-badge` action to auto-generate this section.
-
-</details>
-
-<details>
-<summary><b>💬 Dev Quote of the Day</b></summary>
-<br/>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
-</div>
-
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     SECTION — CONNECT WITH ME
-     ═══════════════════════════════════════════════════════════ -->
-
-## <img src="https://img.shields.io/badge/-09-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Connect With Me
-
-<div align="center">
-
-<a href="https://instagram.com/nfltaa_">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
-<a href="https://linkedin.com/in/naufal__">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
-</a>
-<a href="mailto:naufalandriananta@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-<a href="https://wa.me/6282264016836">
-<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     SECTION — CONTRIBUTION SNAKE
-     ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     FOOTER
-     ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=140&section=footer" width="100%"/>
-
-<sub>Thanks for stopping by — always open to a good collaboration. 🚀</sub>
-</div>
