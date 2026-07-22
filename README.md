@@ -5,9 +5,13 @@
 
 <br/>
 
-<a href="https://github.com/naufalandriananta-cpu">
-  <img src="assets/profile-photo.jpg" width="160" style="border-radius: 50%; margin-top: 10px;" alt="Profile Photo Naufal"/>
-</a>
+<!-- FOTO PROFIL DALAM BINGKAI -->
+<div align="center">
+  <div style="position: relative; width: 180px; height: 180px; display: inline-block;">
+    <img src="assets/profile-frame.svg" style="position: absolute; top: 0; left: 0; width: 100%; height: auto; z-index: 2;" alt="Bingkai Profil"/>
+    <img src="assets/profile-photo.jpg" style="position: absolute; width: 85%; height: 85%; top: 7.5%; left: 7.5%; border-radius: 50%; z-index: 1;" alt="Foto Profil Naufal"/>
+  </div>
+</div>
 
 <br/>
 
@@ -50,7 +54,7 @@ Currently deepening my backend skills to own projects end-to-end — from databa
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=800&color=7EE787&center=true&vCenter=true&width=280&lines=const+dev+%3D+%7B;+++role%3A+%27Full-Stack%27%2C;+++focus%3A+%27UI%2FUX%27%2C;+++status%3A+%27Learning%27;%7D%3B" alt="code snippet"/>
 <br/>
-<img src="assets/profile-frame.svg" width="180" alt="Profile Frame Decoration"/>
+<br/>
 
 </td>
 </tr>
