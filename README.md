@@ -1,26 +1,33 @@
 <div align="center">
 
-<!-- HEADER: Menggunakan Custom Banner & Profile Photo -->
+<!-- HEADER -->
 <img src="assets/banner.svg" width="100%" alt="Banner Naufal Adriananta"/>
 
 <br/>
 
 <a href="https://github.com/naufalandriananta-cpu">
-  <img src="assets/profile-photo.jpg" width="160" style="border-radius: 50%; margin-top: 10px;" alt="Profile Photo Naufal"/>
+  <img src="assets/profile-photo.jpg" width="160" style="border-radius: 50%; margin-top: 10px; border: 3px solid #58A6FF;" alt="Profile Photo Naufal"/>
 </a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+clean%2C+scalable+web+products;Designing+interfaces+people+enjoy+using;Turning+ideas+into+shipped+software;Always+iterating%2C+always+learning" alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- GITHUB STATS BADGES -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+UI%2FUX+Designer;Building+clean%2C+scalable+web+products;Designing+interfaces+people+enjoy+using;Turning+ideas+into+shipped+software" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="mailto:naufalandriananta@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://linkedin.com/in/naufal__"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://instagram.com/nfltaa_"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="https://wa.me/6282264016836"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=naufalandriananta-cpu&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/naufalandriananta-cpu?label=FOLLOWERS&style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="followers"/>
 <img src="https://img.shields.io/github/stars/naufalandriananta-cpu?label=STARS&style=for-the-badge&color=F2CC60&labelColor=0D1117" alt="stars"/>
 
 <br/><br/>
+
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════
@@ -39,16 +46,18 @@ I'm **Naufal**, a software engineer who works across the full stack but genuinel
 
 Most of my time goes into three things:
 
-*   🧩 **Building** — Web applications with an emphasis on structure, maintainability, and user interfaces that don't need explaining.
-*   🎨 **Designing** — Crafting wireframes, exploring font layouts, and building interface systems in Figma before a single line of code is written.
-*   📈 **Planning** — Mapping projects with Gantt charts and task-dependency diagrams before development starts, not after things go sideways.
+- 🧩 **Building** — Web applications with an emphasis on structure, maintainability, and interfaces that don't need explaining.
+- 🎨 **Designing** — Crafting wireframes, exploring layouts, and building interface systems in Figma before a single line of code is written.
+- 📈 **Planning** — Mapping projects with Gantt charts and task-dependency diagrams before development starts, not after things go sideways.
 
-Currently deepening my backend skills to own projects end-to-end — from database schema to the final pixel on the screen.
+🚀 Currently deepening my **backend skills** to own projects end-to-end — from database schema to the final pixel on screen.
+
+🌱 Always iterating, always learning.
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=800&color=7EE787&center=true&vCenter=true&width=280&lines=const+dev+%3D+%7B;+++role%3A+%27Full-Stack%27%2C;+++focus%3A+%27UI%2FUX%27%2C;+++status%3A+%27Learning%27;%7D%3B" alt="code snippet"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=800&color=7EE787&center=true&vCenter=true&width=280&lines=const+dev+%3D+%7B;+++name%3A+%27Naufal%27%2C;+++role%3A+%27Full-Stack%27%2C;+++focus%3A+%27UI%2FUX%27%2C;+++status%3A+%27Learning%27%3B;%7D%3B" alt="code snippet"/>
 <br/>
 <img src="assets/profile-frame.svg" width="180" alt="Profile Frame Decoration"/>
 
@@ -170,5 +179,27 @@ Currently deepening my backend skills to own projects end-to-end — from databa
 <a href="https://github.com/naufalandriananta-cpu/uts-dpw-253307058">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=naufalandriananta-cpu&repo=uts-dpw-253307058&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=7EE787" width="48.5%" alt="UTS DPW"/>
 </a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION — CALL TO ACTION / FOOTER
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-06-0D1117?style=flat-square&color=1F6FEB" height="22"/>&nbsp; Let's Connect
+
+<div align="center">
+
+💬 **Punya ide project atau ingin kolaborasi?** Jangan ragu untuk menghubungi saya lewat email atau WhatsApp di atas — selalu terbuka untuk diskusi seputar web development maupun UI/UX design.
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=7EE787&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let%27s+build+something+great+together." alt="Footer Typing SVG"/>
+
+<br/><br/>
+
+<img src="assets/banner.svg" width="100%" alt="Footer Banner"/>
 
 </div>
