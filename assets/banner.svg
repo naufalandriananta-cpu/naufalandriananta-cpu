@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: 'Georgia', serif; font-size: 64px; fill: #D2A859; font-weight: normal; letter-spacing: 2px; }
+      .subtitle { font-family: 'Inter', 'Segoe UI', sans-serif; font-size: 18px; fill: #C9D1D9; font-weight: 300; letter-spacing: 1px; }
+      .accent { fill: #7EE787; font-weight: bold; }
+    </style>
+  </defs>
+  
+  <g transform="translate(40, 110)">
+    <text x="0" y="0" class="title">Naufal Adriananta</text>
+    <text x="5" y="40" class="subtitle">IT Undergraduate at Politeknik Negeri Madiun</text>
+    <text x="5" y="70" class="subtitle">Focusing on <tspan class="accent">Web Development</tspan> &amp; Casual Vintage UI</text>
+  </g>
+  
+  <line x1="45" y1="210" x2="250" y2="210" stroke="#30363D" stroke-width="1" />
+  <circle cx="250" cy="210" r="3" fill="#D2A859" />
+</svg>
